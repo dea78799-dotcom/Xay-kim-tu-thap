@@ -6,7 +6,7 @@ local Window = Rayfield:CreateWindow({
    Name = "📐 Xây 1 kim tự tháp | AI HACK",
    Icon = 0,
    LoadingTitle = "Đang load...",
-   LoadingSubtitle = "by AI HACK",
+   LoadingSubtitle = "by alatfera script",
    Theme = "AmberGlow",
 
    DisableRayfieldPrompts = false,
